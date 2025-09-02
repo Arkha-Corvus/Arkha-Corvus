@@ -30,7 +30,7 @@
 
 - **CompTIA** – Security+
 - **CompTIA** - CySa+ (In progress)
-- **CompTIA** - Linux (In progress)
+- **CompTIA** - Linux+ (In progress)
 - **HTB CDSA** - Defensive Security Analyst (In Progress)
 
 
