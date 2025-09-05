@@ -43,9 +43,10 @@
 
 - 🛠️ **SIEM Platforms**: Microsoft Sentinel, Splunk
 - 💻 **Security Tools**: VirusTotal, Wireshark
+- ☁️ **Cloud Security**: Azure Network Security Groups (NSGs), Azure API automation
 - 🐧 **Operating Systems**: Windows
-- 💻 **Scripting**: Python 
-- 🧠 **Threat Intelligence**: MITRE ATT&CK  
+- 💻 **Scripting**: Python (log parsing, API integration, SOAR-style automation)
+- 🧠 **Threat Intelligence**: MITRE ATT&CK, IOC enrichment
 - 📊 **Soft Skills**: Analytical thinking, teamwork, documentation
 
  <br />
