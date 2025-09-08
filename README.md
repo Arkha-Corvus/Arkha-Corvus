@@ -21,6 +21,7 @@
 <h2>📁 Projects</h2>
 
 - [Azure-Home-SOC-Lab](https://github.com/Ikulyte/Azure-Home-SOC-Lab)
+- [SOC-Automation-Malicious-IP-Detection-and-Defense](https://github.com/Arkha-Corvus/SOC-Automation-Malicious-IP-Detection-and-Defense/tree/main)
 
 
  <br />
