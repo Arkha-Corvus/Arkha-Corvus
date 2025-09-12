@@ -42,12 +42,12 @@
 
 <h2>🧰 Core Skills</h2>
 
-- 🛠️ **SIEM Platforms**: Microsoft Sentinel, Splunk
+- 🛠️ **SIEM Platforms**: Microsoft Sentinel(KQL), Splunk
 - 💻 **Security Tools**: VirusTotal, Wireshark
-- ☁️ **Cloud Security**: Azure Network Security Groups (NSGs), Azure API automation
+- ☁️ **Cloud Security**: Microsoft Azure
 - 🐧 **Operating Systems**: Windows
-- 💻 **Scripting**: Python (log parsing, API integration, SOAR-style automation)
-- 🧠 **Threat Intelligence**: MITRE ATT&CK, IOC enrichment
+- 💻 **Scripting**: Python, Powershell, Bash
+- 🧠 **Threat Intelligence**: MITRE ATT&CK
 - 📊 **Soft Skills**: Analytical thinking, teamwork, documentation
 
  <br />
