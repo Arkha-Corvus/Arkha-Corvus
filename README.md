@@ -33,7 +33,7 @@
 - **CompTIA** - CySa+ (In progress)
 - **CompTIA** - Linux+ (In progress)
 - **HTB CDSA** - Defensive Security Analyst (In Progress)
-- **Security Blue Team** - Blue Team Level 1 (BTL1)
+- **Security Blue Team** - Blue Team Level 1 (BTL1) (In Progress)
 
 
 
