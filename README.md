@@ -8,7 +8,7 @@
  
  These projects showcase my problem-solving approach, attention to detail and my ability to analyse potential risks, implementing the appropriate mitigation.
 
- I’m an aspiring SOC Analyst with hands-on experience in log analysis, SIEM tools and threat detection. My portfolio highlights my practical knowledge of core SOC tasks.
+ I am a Security Analyst with hands-on experience in log analysis, SIEM tools and threat detection. My portfolio highlights my practical knowledge of core SOC tasks.
 
  
 
